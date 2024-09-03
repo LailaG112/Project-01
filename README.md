@@ -1,7 +1,7 @@
 # Project-01
 
-# Your Name
+# Laila Grant
 
-# Your Github username
+# LailaG112
 
 # List the things you added for points
