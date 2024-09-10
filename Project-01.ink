@@ -148,9 +148,6 @@ The killer heard the noise from the boxes and found you. YOU DIED!
         - time > 12:
         ~ time = 1
 }
-/*
-  Questions: How to make the game stop once the hour gets to 12?
-    */
     
         
     ~ return time
